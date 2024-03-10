@@ -232,3 +232,131 @@ x==========x]
 [2024-03-10 18:57:21,332: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
 
 x==========x]
+[2024-03-10 19:05:37,070: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-10 19:12:05,893: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-10 19:12:05,915: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-10 19:12:05,921: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-10 19:12:05,924: INFO: common: created directory at: artifacts]
+[2024-03-10 19:12:05,928: INFO: common: created directory at: artifacts/data_transformation]
+[2024-03-10 19:13:13,435: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-10 19:13:13,438: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-10 19:13:13,441: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-10 19:13:13,442: INFO: common: created directory at: artifacts]
+[2024-03-10 19:13:13,444: INFO: common: created directory at: artifacts/data_transformation]
+[2024-03-10 19:13:13,500: INFO: 3645377050: Splitted data into training and testing sets]
+[2024-03-10 19:13:13,502: INFO: 3645377050: (1199, 12)]
+[2024-03-10 19:13:13,505: INFO: 3645377050: (400, 12)]
+[2024-03-10 19:24:35,012: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-10 19:24:35,645: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-03-10 19:24:35,647: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-10 19:24:35,647: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-10 19:24:35,648: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-10 19:24:35,649: INFO: common: created directory at: artifacts]
+[2024-03-10 19:24:35,649: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-10 19:24:37,121: INFO: data_ingestion: artifacts/data_ingestion/data.zip downnload! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: C3BA:37C1B9:1A0D21:29A695:65EDD860
+Accept-Ranges: bytes
+Date: Sun, 10 Mar 2024 16:24:37 GMT
+Via: 1.1 varnish
+X-Served-By: cache-jnb7026-JNB
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1710087877.012550,VS0,VE292
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: a2d9801ace4d70311b8b9d9d908cd5c9a98ba0b4
+Expires: Sun, 10 Mar 2024 16:29:37 GMT
+Source-Age: 0
+
+]
+[2024-03-10 19:24:37,128: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-03-10 19:24:37,128: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2024-03-10 19:24:37,132: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-10 19:24:37,133: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-10 19:24:37,136: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-10 19:24:37,136: INFO: common: created directory at: artifacts]
+[2024-03-10 19:24:37,137: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-10 19:24:37,146: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2024-03-10 19:24:37,146: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2024-03-10 19:24:37,147: ERROR: main: [Errno 2] No such file or directory: 'artifacts/data_validation.txt']
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    obj.main()
+  File "/Users/jobdulo/Documents/awsEC2_mlflow_mlops/src/awsec2_mlflow/pipeline/stage_03_data_transformation.py", line 26, in main
+    raise(e)
+  File "/Users/jobdulo/Documents/awsEC2_mlflow_mlops/src/awsec2_mlflow/pipeline/stage_03_data_transformation.py", line 15, in main
+    with open(Path("artifacts/data_validation.txt"), "r") as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_validation.txt'
+[2024-03-10 19:25:28,106: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-10 19:25:28,590: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-03-10 19:25:28,591: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-10 19:25:28,592: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-10 19:25:28,593: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-10 19:25:28,593: INFO: common: created directory at: artifacts]
+[2024-03-10 19:25:28,593: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-10 19:25:29,342: INFO: data_ingestion: artifacts/data_ingestion/data.zip downnload! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: C3BA:37C1B9:1A0D21:29A695:65EDD860
+Accept-Ranges: bytes
+Date: Sun, 10 Mar 2024 16:25:29 GMT
+Via: 1.1 varnish
+X-Served-By: cache-jnb7025-JNB
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1710087930.545637,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 64dc71b1c6051cc3313a967c302873c111de6de7
+Expires: Sun, 10 Mar 2024 16:30:29 GMT
+Source-Age: 52
+
+]
+[2024-03-10 19:25:29,347: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-03-10 19:25:29,347: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2024-03-10 19:25:29,351: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-10 19:25:29,352: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-10 19:25:29,356: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-10 19:25:29,356: INFO: common: created directory at: artifacts]
+[2024-03-10 19:25:29,356: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-10 19:25:29,366: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2024-03-10 19:25:29,367: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2024-03-10 19:25:29,369: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-10 19:25:29,370: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-10 19:25:29,372: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-10 19:25:29,373: INFO: common: created directory at: artifacts]
+[2024-03-10 19:25:29,373: INFO: common: created directory at: artifacts/data_transformation]
+[2024-03-10 19:25:29,403: INFO: data_transformation: Splitted data into training and testing sets]
+[2024-03-10 19:25:29,403: INFO: data_transformation: (1199, 12)]
+[2024-03-10 19:25:29,403: INFO: data_transformation: (400, 12)]
+[2024-03-10 19:25:29,404: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x==========x]
