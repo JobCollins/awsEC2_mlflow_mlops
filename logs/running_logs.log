@@ -166,3 +166,69 @@ Source-Age: 250
 [2024-03-10 13:56:59,903: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
 
 x==========x]
+[2024-03-10 18:43:58,580: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-10 18:43:58,587: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-10 18:43:58,589: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-10 18:43:58,592: INFO: common: created directory at: artifacts]
+[2024-03-10 18:43:58,596: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-10 18:45:42,318: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-10 18:45:42,320: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-10 18:45:42,322: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-10 18:45:42,324: INFO: common: created directory at: artifacts]
+[2024-03-10 18:45:42,325: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-10 18:46:26,766: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-10 18:46:26,769: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-10 18:46:26,772: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-10 18:46:26,774: INFO: common: created directory at: artifacts]
+[2024-03-10 18:46:26,775: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-10 18:46:57,705: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-10 18:46:57,707: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-10 18:46:57,711: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-10 18:46:57,712: INFO: common: created directory at: artifacts]
+[2024-03-10 18:46:57,713: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-10 18:57:19,304: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-10 18:57:19,487: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-03-10 18:57:19,489: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-10 18:57:19,489: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-10 18:57:19,490: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-10 18:57:19,491: INFO: common: created directory at: artifacts]
+[2024-03-10 18:57:19,491: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-10 18:57:21,309: INFO: data_ingestion: artifacts/data_ingestion/data.zip downnload! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: C3BA:37C1B9:1A0D21:29A695:65EDD860
+Accept-Ranges: bytes
+Date: Sun, 10 Mar 2024 15:57:21 GMT
+Via: 1.1 varnish
+X-Served-By: cache-jnb7027-JNB
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1710086241.926989,VS0,VE307
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: e38839527a186efdc6ef7060029f530446d70a9e
+Expires: Sun, 10 Mar 2024 16:02:21 GMT
+Source-Age: 0
+
+]
+[2024-03-10 18:57:21,315: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-03-10 18:57:21,315: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2024-03-10 18:57:21,318: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-10 18:57:21,318: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-10 18:57:21,322: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-10 18:57:21,322: INFO: common: created directory at: artifacts]
+[2024-03-10 18:57:21,322: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-10 18:57:21,332: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
