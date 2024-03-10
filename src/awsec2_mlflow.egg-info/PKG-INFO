@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: awsEC2-mlflow-mlops
+Name: awsec2-mlflow
 Version: 0.0.0
 Summary: A small python package for ml app
 Home-page: https://github.com/job/awsEC2_mlflow_mlops

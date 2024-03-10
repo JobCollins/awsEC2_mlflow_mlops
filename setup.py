@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "awsEC2_mlflow_mlops"
 AUTHOR_USER_NAME = "job"
-SRC_REPO = "awsEC2_mlflow_mlops"
+SRC_REPO = "awsec2_mlflow"
 AUTHOR_EMAIL = "job.dulo@svrus.io"
 
 

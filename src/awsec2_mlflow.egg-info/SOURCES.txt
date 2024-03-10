@@ -1,10 +1,10 @@
 README.md
 setup.py
-src/awsEC2_mlflow_mlops.egg-info/PKG-INFO
-src/awsEC2_mlflow_mlops.egg-info/SOURCES.txt
-src/awsEC2_mlflow_mlops.egg-info/dependency_links.txt
-src/awsEC2_mlflow_mlops.egg-info/top_level.txt
 src/awsec2_mlflow/__init__.py
+src/awsec2_mlflow.egg-info/PKG-INFO
+src/awsec2_mlflow.egg-info/SOURCES.txt
+src/awsec2_mlflow.egg-info/dependency_links.txt
+src/awsec2_mlflow.egg-info/top_level.txt
 src/awsec2_mlflow/components/__init__.py
 src/awsec2_mlflow/config/__init__.py
 src/awsec2_mlflow/config/configuration.py
