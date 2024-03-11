@@ -147,7 +147,7 @@ export MLFLOW_TRACKING_PASSWORD=f8c8b4cd530ac2ba900d1a757fae8cf2ad1aaf67
 
     AWS_REGION = us-east-1
 
-    AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
+    AWS_ECR_LOGIN_URI = 
 
     ECR_REPOSITORY_NAME = simple-app
 
