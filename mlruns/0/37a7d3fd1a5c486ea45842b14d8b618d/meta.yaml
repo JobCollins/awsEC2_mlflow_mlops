@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobdulo/Documents/awsEC2_mlflow_mlops/mlruns/0/37a7d3fd1a5c486ea45842b14d8b618d/artifacts
+end_time: 1710139078522
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37a7d3fd1a5c486ea45842b14d8b618d
+run_name: fortunate-wasp-285
+run_uuid: 37a7d3fd1a5c486ea45842b14d8b618d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710139076384
+status: 3
+tags: []
+user_id: jobdulo

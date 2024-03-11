@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobdulo/Documents/awsEC2_mlflow_mlops/mlruns/0/f6b13c226970493a88519827f8fc6641/artifacts
+end_time: 1710139178393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6b13c226970493a88519827f8fc6641
+run_name: bedecked-dog-935
+run_uuid: f6b13c226970493a88519827f8fc6641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710139176254
+status: 3
+tags: []
+user_id: jobdulo

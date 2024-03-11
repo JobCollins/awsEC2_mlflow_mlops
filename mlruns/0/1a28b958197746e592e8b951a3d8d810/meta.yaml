@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobdulo/Documents/awsEC2_mlflow_mlops/mlruns/0/1a28b958197746e592e8b951a3d8d810/artifacts
+end_time: 1710139130099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a28b958197746e592e8b951a3d8d810
+run_name: dazzling-hound-927
+run_uuid: 1a28b958197746e592e8b951a3d8d810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710139128029
+status: 3
+tags: []
+user_id: jobdulo

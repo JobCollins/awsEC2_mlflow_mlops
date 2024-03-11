@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobdulo/Documents/awsEC2_mlflow_mlops/mlruns/0/93c5e31076a143cf8f9b1b8331a849aa/artifacts
+end_time: 1710137892339
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93c5e31076a143cf8f9b1b8331a849aa
+run_name: nimble-skunk-143
+run_uuid: 93c5e31076a143cf8f9b1b8331a849aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710137890174
+status: 3
+tags: []
+user_id: jobdulo

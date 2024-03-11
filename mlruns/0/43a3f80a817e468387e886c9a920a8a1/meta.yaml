@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobdulo/Documents/awsEC2_mlflow_mlops/mlruns/0/43a3f80a817e468387e886c9a920a8a1/artifacts
+end_time: 1710139221796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43a3f80a817e468387e886c9a920a8a1
+run_name: enchanting-lynx-924
+run_uuid: 43a3f80a817e468387e886c9a920a8a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710139219494
+status: 3
+tags: []
+user_id: jobdulo

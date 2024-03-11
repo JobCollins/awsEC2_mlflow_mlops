@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobdulo/Documents/awsEC2_mlflow_mlops/mlruns/0/8c876d9c40a145cc9a2ede1d97cc5007/artifacts
+end_time: 1710139300308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c876d9c40a145cc9a2ede1d97cc5007
+run_name: upset-asp-285
+run_uuid: 8c876d9c40a145cc9a2ede1d97cc5007
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710139298154
+status: 3
+tags: []
+user_id: jobdulo

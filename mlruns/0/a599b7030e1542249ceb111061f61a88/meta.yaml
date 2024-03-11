@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobdulo/Documents/awsEC2_mlflow_mlops/mlruns/0/a599b7030e1542249ceb111061f61a88/artifacts
+end_time: 1710139344824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a599b7030e1542249ceb111061f61a88
+run_name: colorful-vole-648
+run_uuid: a599b7030e1542249ceb111061f61a88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710139342660
+status: 3
+tags: []
+user_id: jobdulo

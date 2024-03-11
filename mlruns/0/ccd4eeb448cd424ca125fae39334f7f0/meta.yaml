@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobdulo/Documents/awsEC2_mlflow_mlops/mlruns/0/ccd4eeb448cd424ca125fae39334f7f0/artifacts
+end_time: 1710137422078
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccd4eeb448cd424ca125fae39334f7f0
+run_name: rare-shad-988
+run_uuid: ccd4eeb448cd424ca125fae39334f7f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710137419979
+status: 3
+tags: []
+user_id: jobdulo

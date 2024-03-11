@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobdulo/Documents/awsEC2_mlflow_mlops/mlruns/0/9ee06bdafc6645e6aae3851eda26d6c3/artifacts
+end_time: 1710137843355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ee06bdafc6645e6aae3851eda26d6c3
+run_name: illustrious-croc-501
+run_uuid: 9ee06bdafc6645e6aae3851eda26d6c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710137841191
+status: 3
+tags: []
+user_id: jobdulo

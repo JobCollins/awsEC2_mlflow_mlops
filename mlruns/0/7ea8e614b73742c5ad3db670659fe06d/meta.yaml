@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobdulo/Documents/awsEC2_mlflow_mlops/mlruns/0/7ea8e614b73742c5ad3db670659fe06d/artifacts
+end_time: 1710139430423
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ea8e614b73742c5ad3db670659fe06d
+run_name: adaptable-gnat-953
+run_uuid: 7ea8e614b73742c5ad3db670659fe06d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710139428318
+status: 3
+tags: []
+user_id: jobdulo

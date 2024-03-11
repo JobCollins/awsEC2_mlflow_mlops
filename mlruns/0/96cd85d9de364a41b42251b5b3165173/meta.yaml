@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobdulo/Documents/awsEC2_mlflow_mlops/mlruns/0/96cd85d9de364a41b42251b5b3165173/artifacts
+end_time: 1710138323968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96cd85d9de364a41b42251b5b3165173
+run_name: ambitious-koi-412
+run_uuid: 96cd85d9de364a41b42251b5b3165173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710138321690
+status: 3
+tags: []
+user_id: jobdulo

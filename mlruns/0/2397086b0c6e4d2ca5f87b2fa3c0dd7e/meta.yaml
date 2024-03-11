@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobdulo/Documents/awsEC2_mlflow_mlops/mlruns/0/2397086b0c6e4d2ca5f87b2fa3c0dd7e/artifacts
+end_time: 1710139522825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2397086b0c6e4d2ca5f87b2fa3c0dd7e
+run_name: redolent-zebra-378
+run_uuid: 2397086b0c6e4d2ca5f87b2fa3c0dd7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710139520112
+status: 4
+tags: []
+user_id: jobdulo

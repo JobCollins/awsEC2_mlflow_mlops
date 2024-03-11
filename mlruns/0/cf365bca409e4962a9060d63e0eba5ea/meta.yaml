@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobdulo/Documents/awsEC2_mlflow_mlops/mlruns/0/cf365bca409e4962a9060d63e0eba5ea/artifacts
+end_time: 1710139761201
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf365bca409e4962a9060d63e0eba5ea
+run_name: adorable-crow-810
+run_uuid: cf365bca409e4962a9060d63e0eba5ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710139758923
+status: 3
+tags: []
+user_id: jobdulo

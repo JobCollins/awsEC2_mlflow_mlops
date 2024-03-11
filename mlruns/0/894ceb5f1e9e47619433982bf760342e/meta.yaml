@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobdulo/Documents/awsEC2_mlflow_mlops/mlruns/0/894ceb5f1e9e47619433982bf760342e/artifacts
+end_time: 1710139049308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 894ceb5f1e9e47619433982bf760342e
+run_name: gaudy-midge-151
+run_uuid: 894ceb5f1e9e47619433982bf760342e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710139047184
+status: 3
+tags: []
+user_id: jobdulo

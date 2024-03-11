@@ -489,3 +489,1641 @@ x==========x]
 [2024-03-10 20:51:13,070: INFO: common: created directory at: artifacts]
 [2024-03-10 20:51:13,071: INFO: common: created directory at: artifacts/model_evaluation]
 [2024-03-10 20:51:13,884: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-10 21:09:20,340: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-10 21:09:20,346: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-10 21:09:20,349: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-10 21:09:20,350: INFO: common: created directory at: artifacts]
+[2024-03-10 21:09:20,351: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-10 21:09:21,117: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-10 21:09:48,019: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-10 21:09:48,025: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-10 21:09:48,030: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-10 21:09:48,032: INFO: common: created directory at: artifacts]
+[2024-03-10 21:09:48,033: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-10 21:09:48,691: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-10 21:11:07,336: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-10 21:11:07,340: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-10 21:11:07,344: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-10 21:11:07,346: INFO: common: created directory at: artifacts]
+[2024-03-10 21:11:07,347: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-10 21:11:07,957: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-10 21:17:01,847: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-10 21:17:01,851: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-10 21:17:01,855: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-10 21:17:01,857: INFO: common: created directory at: artifacts]
+[2024-03-10 21:17:01,858: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-10 21:17:02,596: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-10 21:30:53,077: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-10 21:30:53,084: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-10 21:30:53,088: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-10 21:30:53,090: INFO: common: created directory at: artifacts]
+[2024-03-10 21:30:53,091: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-10 21:30:53,887: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-10 21:31:37,428: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-10 21:31:37,455: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-10 21:31:37,464: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-10 21:31:37,467: INFO: common: created directory at: artifacts]
+[2024-03-10 21:31:37,469: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-10 21:31:38,205: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-10 21:32:55,991: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-10 21:32:55,996: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-10 21:32:56,001: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-10 21:32:56,004: INFO: common: created directory at: artifacts]
+[2024-03-10 21:32:56,006: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-10 21:32:56,756: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-10 21:34:09,809: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-10 21:34:09,815: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-10 21:34:09,819: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-10 21:34:09,820: INFO: common: created directory at: artifacts]
+[2024-03-10 21:34:09,821: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-10 21:34:10,520: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-10 21:36:45,466: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-10 21:36:45,470: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-10 21:36:45,472: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-10 21:36:45,473: INFO: common: created directory at: artifacts]
+[2024-03-10 21:36:45,474: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-10 21:36:46,106: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 07:43:50,999: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 07:43:53,762: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:43:53,765: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:43:53,769: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:43:53,771: INFO: common: created directory at: artifacts]
+[2024-03-11 07:43:53,772: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 07:43:55,008: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 07:53:45,687: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 07:53:46,968: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-03-11 07:53:46,971: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:53:46,972: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:53:46,974: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:53:46,974: INFO: common: created directory at: artifacts]
+[2024-03-11 07:53:46,975: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-11 07:53:48,239: INFO: data_ingestion: artifacts/data_ingestion/data.zip downnload! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1EFC:2E4BFD:239E0A:392014:65EE8E5B
+Accept-Ranges: bytes
+Date: Mon, 11 Mar 2024 04:53:48 GMT
+Via: 1.1 varnish
+X-Served-By: cache-jnb7021-JNB
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1710132828.320153,VS0,VE296
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: bc8350512b3a2c2f82764ac069740c7a08931630
+Expires: Mon, 11 Mar 2024 04:58:48 GMT
+Source-Age: 0
+
+]
+[2024-03-11 07:53:48,245: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 07:53:48,246: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2024-03-11 07:53:48,254: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:53:48,256: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:53:48,260: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:53:48,261: INFO: common: created directory at: artifacts]
+[2024-03-11 07:53:48,261: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-11 07:53:48,276: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 07:53:48,277: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2024-03-11 07:53:48,281: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:53:48,282: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:53:48,284: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:53:48,285: INFO: common: created directory at: artifacts]
+[2024-03-11 07:53:48,285: INFO: common: created directory at: artifacts/data_transformation]
+[2024-03-11 07:53:48,315: INFO: data_transformation: Splitted data into training and testing sets]
+[2024-03-11 07:53:48,316: INFO: data_transformation: (1199, 12)]
+[2024-03-11 07:53:48,316: INFO: data_transformation: (400, 12)]
+[2024-03-11 07:53:48,316: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 07:53:48,316: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2024-03-11 07:53:48,318: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:53:48,319: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:53:48,320: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:53:48,320: INFO: common: created directory at: artifacts]
+[2024-03-11 07:53:48,320: INFO: common: created directory at: artifacts/model_trainer]
+[2024-03-11 07:53:48,330: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 07:53:48,330: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 07:53:48,333: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:53:48,333: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:53:48,334: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:53:48,334: INFO: common: created directory at: artifacts]
+[2024-03-11 07:53:48,334: ERROR: main: 'ConfigurationManager' object has no attribute 'get_model_evaluation_config']
+Traceback (most recent call last):
+  File "main.py", line 57, in <module>
+    obj.main()
+  File "/Users/jobdulo/Documents/awsEC2_mlflow_mlops/src/awsec2_mlflow/pipeline/stage_05_model_evaluation.py", line 14, in main
+    model_evaluation_config = config.get_model_evaluation_config()
+AttributeError: 'ConfigurationManager' object has no attribute 'get_model_evaluation_config'
+[2024-03-11 07:55:25,642: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 07:55:26,623: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-03-11 07:55:26,626: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:55:26,626: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:55:26,628: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:55:26,628: INFO: common: created directory at: artifacts]
+[2024-03-11 07:55:26,628: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-11 07:55:26,628: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-03-11 07:55:26,629: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 07:55:26,629: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2024-03-11 07:55:26,631: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:55:26,632: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:55:26,633: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:55:26,633: INFO: common: created directory at: artifacts]
+[2024-03-11 07:55:26,633: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-11 07:55:26,637: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 07:55:26,637: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2024-03-11 07:55:26,639: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:55:26,640: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:55:26,641: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:55:26,641: INFO: common: created directory at: artifacts]
+[2024-03-11 07:55:26,641: INFO: common: created directory at: artifacts/data_transformation]
+[2024-03-11 07:55:26,656: INFO: data_transformation: Splitted data into training and testing sets]
+[2024-03-11 07:55:26,657: INFO: data_transformation: (1199, 12)]
+[2024-03-11 07:55:26,657: INFO: data_transformation: (400, 12)]
+[2024-03-11 07:55:26,657: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 07:55:26,657: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2024-03-11 07:55:26,659: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:55:26,659: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:55:26,660: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:55:26,661: INFO: common: created directory at: artifacts]
+[2024-03-11 07:55:26,661: INFO: common: created directory at: artifacts/model_trainer]
+[2024-03-11 07:55:26,668: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 07:55:26,668: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 07:55:26,672: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:55:26,672: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:55:26,673: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:55:26,674: INFO: common: created directory at: artifacts]
+[2024-03-11 07:55:26,674: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 07:55:26,851: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 07:55:41,025: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 07:55:42,008: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-03-11 07:55:42,010: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:55:42,011: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:55:42,012: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:55:42,012: INFO: common: created directory at: artifacts]
+[2024-03-11 07:55:42,012: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-11 07:55:42,533: INFO: data_ingestion: artifacts/data_ingestion/data.zip downnload! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1EFC:2E4BFD:239E0A:392014:65EE8E5B
+Accept-Ranges: bytes
+Date: Mon, 11 Mar 2024 04:55:42 GMT
+Via: 1.1 varnish
+X-Served-By: cache-jnb7022-JNB
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1710132943.956229,VS0,VE0
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: f9d0954bf3cb904d8a203cbd1f7d1f916e23c099
+Expires: Mon, 11 Mar 2024 05:00:42 GMT
+Source-Age: 114
+
+]
+[2024-03-11 07:55:42,537: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 07:55:42,537: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2024-03-11 07:55:42,543: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:55:42,544: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:55:42,547: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:55:42,547: INFO: common: created directory at: artifacts]
+[2024-03-11 07:55:42,548: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-11 07:55:42,557: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 07:55:42,557: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2024-03-11 07:55:42,561: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:55:42,562: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:55:42,564: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:55:42,565: INFO: common: created directory at: artifacts]
+[2024-03-11 07:55:42,565: INFO: common: created directory at: artifacts/data_transformation]
+[2024-03-11 07:55:42,593: INFO: data_transformation: Splitted data into training and testing sets]
+[2024-03-11 07:55:42,593: INFO: data_transformation: (1199, 12)]
+[2024-03-11 07:55:42,593: INFO: data_transformation: (400, 12)]
+[2024-03-11 07:55:42,593: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 07:55:42,593: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2024-03-11 07:55:42,596: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:55:42,596: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:55:42,598: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:55:42,598: INFO: common: created directory at: artifacts]
+[2024-03-11 07:55:42,598: INFO: common: created directory at: artifacts/model_trainer]
+[2024-03-11 07:55:42,606: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 07:55:42,606: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 07:55:42,609: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:55:42,609: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:55:42,610: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:55:42,611: INFO: common: created directory at: artifacts]
+[2024-03-11 07:55:42,611: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 07:55:42,782: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 07:55:44,745: INFO: main: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 07:57:47,195: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 07:57:48,182: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-03-11 07:57:48,184: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:57:48,185: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:57:48,186: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:57:48,187: INFO: common: created directory at: artifacts]
+[2024-03-11 07:57:48,187: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-11 07:57:49,055: INFO: data_ingestion: artifacts/data_ingestion/data.zip downnload! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1EFC:2E4BFD:239E0A:392014:65EE8E5B
+Accept-Ranges: bytes
+Date: Mon, 11 Mar 2024 04:57:49 GMT
+Via: 1.1 varnish
+X-Served-By: cache-jnb7023-JNB
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1710133069.472789,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 29495c97fb5b4f71ea0ff4de43e803c5a284d2bf
+Expires: Mon, 11 Mar 2024 05:02:49 GMT
+Source-Age: 241
+
+]
+[2024-03-11 07:57:49,060: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 07:57:49,060: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2024-03-11 07:57:49,066: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:57:49,067: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:57:49,070: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:57:49,070: INFO: common: created directory at: artifacts]
+[2024-03-11 07:57:49,071: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-11 07:57:49,081: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 07:57:49,081: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2024-03-11 07:57:49,086: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:57:49,087: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:57:49,089: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:57:49,090: INFO: common: created directory at: artifacts]
+[2024-03-11 07:57:49,090: INFO: common: created directory at: artifacts/data_transformation]
+[2024-03-11 07:57:49,117: INFO: data_transformation: Splitted data into training and testing sets]
+[2024-03-11 07:57:49,118: INFO: data_transformation: (1199, 12)]
+[2024-03-11 07:57:49,118: INFO: data_transformation: (400, 12)]
+[2024-03-11 07:57:49,118: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 07:57:49,118: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2024-03-11 07:57:49,120: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:57:49,121: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:57:49,122: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:57:49,123: INFO: common: created directory at: artifacts]
+[2024-03-11 07:57:49,123: INFO: common: created directory at: artifacts/model_trainer]
+[2024-03-11 07:57:49,147: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 07:57:49,148: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 07:57:49,150: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:57:49,152: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:57:49,153: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:57:49,153: INFO: common: created directory at: artifacts]
+[2024-03-11 07:57:49,154: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 07:57:49,317: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 07:57:51,370: INFO: main: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 07:59:53,961: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 07:59:55,012: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-03-11 07:59:55,014: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:59:55,015: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:59:55,016: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:59:55,016: INFO: common: created directory at: artifacts]
+[2024-03-11 07:59:55,016: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-11 07:59:55,016: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-03-11 07:59:55,018: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 07:59:55,018: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2024-03-11 07:59:55,020: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:59:55,020: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:59:55,022: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:59:55,022: INFO: common: created directory at: artifacts]
+[2024-03-11 07:59:55,022: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-11 07:59:55,026: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 07:59:55,026: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2024-03-11 07:59:55,028: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:59:55,028: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:59:55,029: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:59:55,030: INFO: common: created directory at: artifacts]
+[2024-03-11 07:59:55,030: INFO: common: created directory at: artifacts/data_transformation]
+[2024-03-11 07:59:55,046: INFO: data_transformation: Splitted data into training and testing sets]
+[2024-03-11 07:59:55,046: INFO: data_transformation: (1199, 12)]
+[2024-03-11 07:59:55,046: INFO: data_transformation: (400, 12)]
+[2024-03-11 07:59:55,046: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 07:59:55,046: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2024-03-11 07:59:55,048: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:59:55,048: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:59:55,050: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:59:55,050: INFO: common: created directory at: artifacts]
+[2024-03-11 07:59:55,050: INFO: common: created directory at: artifacts/model_trainer]
+[2024-03-11 07:59:55,057: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 07:59:55,057: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 07:59:55,059: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 07:59:55,059: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 07:59:55,060: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 07:59:55,061: INFO: common: created directory at: artifacts]
+[2024-03-11 07:59:55,061: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 07:59:55,214: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 07:59:57,174: INFO: main: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 08:00:21,260: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:00:21,263: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:00:21,267: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:00:21,269: INFO: common: created directory at: artifacts]
+[2024-03-11 08:00:21,269: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 08:00:21,846: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 08:07:14,320: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 08:09:34,866: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:09:34,870: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:09:34,874: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:09:34,875: INFO: common: created directory at: artifacts]
+[2024-03-11 08:09:34,876: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 08:09:35,077: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 08:10:07,375: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:10:07,378: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:10:07,382: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:10:07,384: INFO: common: created directory at: artifacts]
+[2024-03-11 08:10:07,386: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 08:10:07,410: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 08:10:28,270: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:10:28,273: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:10:28,278: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:10:28,283: INFO: common: created directory at: artifacts]
+[2024-03-11 08:10:28,284: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 08:10:28,304: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 08:11:17,232: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:11:17,236: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:11:17,239: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:11:17,240: INFO: common: created directory at: artifacts]
+[2024-03-11 08:11:17,241: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 08:11:17,265: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 08:11:22,411: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:11:22,414: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:11:22,422: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:11:22,427: INFO: common: created directory at: artifacts]
+[2024-03-11 08:11:22,429: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 08:11:22,479: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 08:11:31,546: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:11:31,550: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:11:31,553: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:11:31,555: INFO: common: created directory at: artifacts]
+[2024-03-11 08:11:31,556: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 08:11:31,575: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 08:11:37,332: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:11:37,336: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:11:37,341: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:11:37,343: INFO: common: created directory at: artifacts]
+[2024-03-11 08:11:37,355: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 08:11:37,398: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 08:12:31,096: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 08:12:31,928: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:12:31,930: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:12:31,932: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:12:31,932: INFO: common: created directory at: artifacts]
+[2024-03-11 08:12:31,933: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 08:12:32,691: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 08:12:45,357: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:12:45,360: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:12:45,364: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:12:45,368: INFO: common: created directory at: artifacts]
+[2024-03-11 08:12:45,370: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 08:12:45,994: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 08:13:27,431: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 08:13:28,499: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:13:28,500: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:13:28,502: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:13:28,503: INFO: common: created directory at: artifacts]
+[2024-03-11 08:13:28,504: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 08:13:29,348: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 08:18:14,337: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 08:18:15,406: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:18:15,408: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:18:15,410: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:18:15,411: INFO: common: created directory at: artifacts]
+[2024-03-11 08:18:15,411: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 08:18:16,459: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 08:24:57,529: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:24:57,534: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:24:57,537: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:24:57,539: INFO: common: created directory at: artifacts]
+[2024-03-11 08:24:57,540: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 08:24:58,092: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 08:25:48,808: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 08:25:49,886: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:25:49,887: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:25:49,889: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:25:49,890: INFO: common: created directory at: artifacts]
+[2024-03-11 08:25:49,891: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 08:25:50,742: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 08:37:34,533: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 08:37:35,413: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:37:35,415: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:37:35,417: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:37:35,418: INFO: common: created directory at: artifacts]
+[2024-03-11 08:37:35,418: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 08:37:36,133: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 08:40:27,075: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 08:40:27,917: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:40:27,919: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:40:27,921: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:40:27,923: INFO: common: created directory at: artifacts]
+[2024-03-11 08:40:27,923: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 08:40:28,672: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 08:44:26,319: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 08:44:29,305: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:44:29,307: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:44:29,309: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:44:29,310: INFO: common: created directory at: artifacts]
+[2024-03-11 08:44:29,311: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 08:44:29,975: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 08:49:04,336: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 08:49:05,305: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-03-11 08:49:05,308: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:49:05,308: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:49:05,310: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:49:05,310: INFO: common: created directory at: artifacts]
+[2024-03-11 08:49:05,310: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-11 08:49:06,415: INFO: data_ingestion: artifacts/data_ingestion/data.zip downnload! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1EFC:2E4BFD:239E0A:392014:65EE8E5B
+Accept-Ranges: bytes
+Date: Mon, 11 Mar 2024 05:49:06 GMT
+Via: 1.1 varnish
+X-Served-By: cache-jnb7020-JNB
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1710136146.247411,VS0,VE275
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: cef834add0782cfd6ac7412598c301cd888710b6
+Expires: Mon, 11 Mar 2024 05:54:06 GMT
+Source-Age: 0
+
+]
+[2024-03-11 08:49:06,420: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 08:49:06,420: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2024-03-11 08:49:06,426: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:49:06,427: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:49:06,430: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:49:06,430: INFO: common: created directory at: artifacts]
+[2024-03-11 08:49:06,431: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-11 08:49:06,443: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 08:49:06,443: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2024-03-11 08:49:06,447: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:49:06,448: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:49:06,450: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:49:06,450: INFO: common: created directory at: artifacts]
+[2024-03-11 08:49:06,451: INFO: common: created directory at: artifacts/data_transformation]
+[2024-03-11 08:49:06,480: INFO: data_transformation: Splitted data into training and testing sets]
+[2024-03-11 08:49:06,480: INFO: data_transformation: (1199, 12)]
+[2024-03-11 08:49:06,480: INFO: data_transformation: (400, 12)]
+[2024-03-11 08:49:06,480: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 08:49:06,480: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2024-03-11 08:49:06,482: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:49:06,483: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:49:06,484: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:49:06,485: INFO: common: created directory at: artifacts]
+[2024-03-11 08:49:06,485: INFO: common: created directory at: artifacts/model_trainer]
+[2024-03-11 08:49:06,494: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 08:49:06,495: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 08:49:06,497: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:49:06,497: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:49:06,498: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:49:06,499: INFO: common: created directory at: artifacts]
+[2024-03-11 08:49:06,499: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 08:49:06,896: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 08:49:09,098: INFO: main: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 08:55:44,158: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 08:55:45,115: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-03-11 08:55:45,118: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:55:45,119: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:55:45,120: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:55:45,120: INFO: common: created directory at: artifacts]
+[2024-03-11 08:55:45,120: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-11 08:55:46,237: INFO: data_ingestion: artifacts/data_ingestion/data.zip downnload! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1EFC:2E4BFD:239E0A:392014:65EE8E5B
+Accept-Ranges: bytes
+Date: Mon, 11 Mar 2024 05:55:46 GMT
+Via: 1.1 varnish
+X-Served-By: cache-jnb7023-JNB
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1710136546.060285,VS0,VE282
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 5217985ace9180d91ca8e3c666136d02ed163d55
+Expires: Mon, 11 Mar 2024 06:00:46 GMT
+Source-Age: 0
+
+]
+[2024-03-11 08:55:46,244: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 08:55:46,244: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2024-03-11 08:55:46,248: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:55:46,250: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:55:46,253: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:55:46,253: INFO: common: created directory at: artifacts]
+[2024-03-11 08:55:46,253: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-11 08:55:46,265: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 08:55:46,265: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2024-03-11 08:55:46,268: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:55:46,269: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:55:46,271: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:55:46,272: INFO: common: created directory at: artifacts]
+[2024-03-11 08:55:46,272: INFO: common: created directory at: artifacts/data_transformation]
+[2024-03-11 08:55:46,300: INFO: data_transformation: Splitted data into training and testing sets]
+[2024-03-11 08:55:46,300: INFO: data_transformation: (1199, 12)]
+[2024-03-11 08:55:46,300: INFO: data_transformation: (400, 12)]
+[2024-03-11 08:55:46,300: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 08:55:46,300: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2024-03-11 08:55:46,303: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:55:46,303: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:55:46,305: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:55:46,305: INFO: common: created directory at: artifacts]
+[2024-03-11 08:55:46,305: INFO: common: created directory at: artifacts/model_trainer]
+[2024-03-11 08:55:46,313: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 08:55:46,313: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 08:55:46,316: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:55:46,316: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:55:46,318: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:55:46,318: INFO: common: created directory at: artifacts]
+[2024-03-11 08:55:46,318: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 08:55:46,713: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 08:55:48,911: INFO: main: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 08:59:34,678: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 08:59:35,622: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-03-11 08:59:35,625: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:59:35,625: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:59:35,627: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:59:35,627: INFO: common: created directory at: artifacts]
+[2024-03-11 08:59:35,627: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-11 08:59:39,678: INFO: data_ingestion: artifacts/data_ingestion/data.zip downnload! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1EFC:2E4BFD:239E0A:392014:65EE8E5B
+Accept-Ranges: bytes
+Date: Mon, 11 Mar 2024 05:59:38 GMT
+Via: 1.1 varnish
+X-Served-By: cache-jnb7025-JNB
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1710136778.488224,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: fed14d04f4534493042b6d7d0529d1033ac450a2
+Expires: Mon, 11 Mar 2024 06:04:38 GMT
+Source-Age: 232
+
+]
+[2024-03-11 08:59:39,683: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 08:59:39,683: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2024-03-11 08:59:39,689: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:59:39,690: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:59:39,693: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:59:39,693: INFO: common: created directory at: artifacts]
+[2024-03-11 08:59:39,693: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-11 08:59:39,707: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 08:59:39,707: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2024-03-11 08:59:39,712: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:59:39,713: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:59:39,715: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:59:39,716: INFO: common: created directory at: artifacts]
+[2024-03-11 08:59:39,716: INFO: common: created directory at: artifacts/data_transformation]
+[2024-03-11 08:59:39,744: INFO: data_transformation: Splitted data into training and testing sets]
+[2024-03-11 08:59:39,745: INFO: data_transformation: (1199, 12)]
+[2024-03-11 08:59:39,745: INFO: data_transformation: (400, 12)]
+[2024-03-11 08:59:39,745: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 08:59:39,745: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2024-03-11 08:59:39,747: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:59:39,748: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:59:39,749: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:59:39,750: INFO: common: created directory at: artifacts]
+[2024-03-11 08:59:39,750: INFO: common: created directory at: artifacts/model_trainer]
+[2024-03-11 08:59:39,758: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 08:59:39,758: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 08:59:39,760: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 08:59:39,761: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 08:59:39,762: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 08:59:39,763: INFO: common: created directory at: artifacts]
+[2024-03-11 08:59:39,763: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 08:59:40,241: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 08:59:42,622: INFO: main: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:08:07,015: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:08:08,435: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:08:08,437: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:08:08,438: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:08:08,439: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:08:08,440: INFO: common: created directory at: artifacts]
+[2024-03-11 09:08:08,440: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:08:08,869: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:08:10,949: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:10:18,207: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:10:19,566: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:10:19,568: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:10:19,569: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:10:19,570: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:10:19,571: INFO: common: created directory at: artifacts]
+[2024-03-11 09:10:19,571: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:10:19,990: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:10:22,079: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:12:34,377: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:12:35,736: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:12:35,738: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:12:35,739: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:12:35,741: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:12:35,741: INFO: common: created directory at: artifacts]
+[2024-03-11 09:12:35,741: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:12:36,161: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:12:38,230: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:16:08,242: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:16:09,233: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:16:09,234: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:16:09,237: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:16:09,238: INFO: common: created directory at: artifacts]
+[2024-03-11 09:16:09,238: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:16:10,145: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:17:19,775: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:17:20,729: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-03-11 09:17:20,732: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:17:20,732: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:17:20,734: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:17:20,734: INFO: common: created directory at: artifacts]
+[2024-03-11 09:17:20,734: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-11 09:17:20,734: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-03-11 09:17:20,737: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:17:20,737: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2024-03-11 09:17:20,739: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:17:20,740: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:17:20,741: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:17:20,741: INFO: common: created directory at: artifacts]
+[2024-03-11 09:17:20,741: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-11 09:17:20,745: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:17:20,745: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2024-03-11 09:17:20,748: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:17:20,748: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:17:20,749: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:17:20,749: INFO: common: created directory at: artifacts]
+[2024-03-11 09:17:20,750: INFO: common: created directory at: artifacts/data_transformation]
+[2024-03-11 09:17:20,769: INFO: data_transformation: Splitted data into training and testing sets]
+[2024-03-11 09:17:20,769: INFO: data_transformation: (1199, 12)]
+[2024-03-11 09:17:20,769: INFO: data_transformation: (400, 12)]
+[2024-03-11 09:17:20,769: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:17:20,769: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2024-03-11 09:17:20,771: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:17:20,771: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:17:20,772: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:17:20,773: INFO: common: created directory at: artifacts]
+[2024-03-11 09:17:20,773: INFO: common: created directory at: artifacts/model_trainer]
+[2024-03-11 09:17:20,782: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:17:20,782: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:17:20,784: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:17:20,784: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:17:20,786: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:17:20,786: INFO: common: created directory at: artifacts]
+[2024-03-11 09:17:20,786: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:17:21,202: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:17:23,356: INFO: main: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:18:07,632: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:18:08,560: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-03-11 09:18:08,563: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:18:08,564: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:18:08,565: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:18:08,565: INFO: common: created directory at: artifacts]
+[2024-03-11 09:18:08,565: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-11 09:18:09,723: INFO: data_ingestion: artifacts/data_ingestion/data.zip downnload! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1EFC:2E4BFD:239E0A:392014:65EE8E5B
+Accept-Ranges: bytes
+Date: Mon, 11 Mar 2024 06:18:09 GMT
+Via: 1.1 varnish
+X-Served-By: cache-jnb7024-JNB
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1710137890.557289,VS0,VE275
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: b436e2912cf9584f41ce092a31b15208d0b53107
+Expires: Mon, 11 Mar 2024 06:23:09 GMT
+Source-Age: 0
+
+]
+[2024-03-11 09:18:09,728: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:18:09,728: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2024-03-11 09:18:09,734: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:18:09,735: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:18:09,738: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:18:09,739: INFO: common: created directory at: artifacts]
+[2024-03-11 09:18:09,739: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-11 09:18:09,750: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:18:09,750: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2024-03-11 09:18:09,754: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:18:09,755: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:18:09,758: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:18:09,758: INFO: common: created directory at: artifacts]
+[2024-03-11 09:18:09,758: INFO: common: created directory at: artifacts/data_transformation]
+[2024-03-11 09:18:09,784: INFO: data_transformation: Splitted data into training and testing sets]
+[2024-03-11 09:18:09,784: INFO: data_transformation: (1199, 12)]
+[2024-03-11 09:18:09,784: INFO: data_transformation: (400, 12)]
+[2024-03-11 09:18:09,785: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:18:09,785: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2024-03-11 09:18:09,787: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:18:09,788: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:18:09,789: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:18:09,790: INFO: common: created directory at: artifacts]
+[2024-03-11 09:18:09,790: INFO: common: created directory at: artifacts/model_trainer]
+[2024-03-11 09:18:09,798: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:18:09,798: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:18:09,800: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:18:09,801: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:18:09,802: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:18:09,803: INFO: common: created directory at: artifacts]
+[2024-03-11 09:18:09,803: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:18:10,184: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:18:12,340: INFO: main: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:21:46,838: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:21:47,794: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-03-11 09:21:47,797: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:21:47,799: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:21:47,800: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:21:47,801: INFO: common: created directory at: artifacts]
+[2024-03-11 09:21:47,801: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-11 09:21:48,620: INFO: data_ingestion: artifacts/data_ingestion/data.zip downnload! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1EFC:2E4BFD:239E0A:392014:65EE8E5B
+Accept-Ranges: bytes
+Date: Mon, 11 Mar 2024 06:21:48 GMT
+Via: 1.1 varnish
+X-Served-By: cache-jnb7024-JNB
+X-Cache: HIT
+X-Cache-Hits: 2
+X-Timer: S1710138109.725532,VS0,VE0
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: e81bd4d0a1d252b80ea6a94f2d8e7b24635b7df6
+Expires: Mon, 11 Mar 2024 06:26:48 GMT
+Source-Age: 219
+
+]
+[2024-03-11 09:21:48,625: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:21:48,625: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2024-03-11 09:21:48,631: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:21:48,632: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:21:48,635: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:21:48,635: INFO: common: created directory at: artifacts]
+[2024-03-11 09:21:48,635: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-11 09:21:48,645: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:21:48,646: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2024-03-11 09:21:48,650: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:21:48,651: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:21:48,653: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:21:48,653: INFO: common: created directory at: artifacts]
+[2024-03-11 09:21:48,653: INFO: common: created directory at: artifacts/data_transformation]
+[2024-03-11 09:21:48,681: INFO: data_transformation: Splitted data into training and testing sets]
+[2024-03-11 09:21:48,681: INFO: data_transformation: (1199, 12)]
+[2024-03-11 09:21:48,681: INFO: data_transformation: (400, 12)]
+[2024-03-11 09:21:48,681: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:21:48,681: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2024-03-11 09:21:48,684: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:21:48,684: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:21:48,686: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:21:48,686: INFO: common: created directory at: artifacts]
+[2024-03-11 09:21:48,686: INFO: common: created directory at: artifacts/model_trainer]
+[2024-03-11 09:21:48,694: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:21:48,695: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:21:48,697: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:21:48,697: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:21:48,699: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:21:48,699: INFO: common: created directory at: artifacts]
+[2024-03-11 09:21:48,699: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:21:49,100: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:21:51,278: INFO: main: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:22:41,218: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:22:42,117: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-03-11 09:22:42,120: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:22:42,121: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:22:42,123: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:22:42,123: INFO: common: created directory at: artifacts]
+[2024-03-11 09:22:42,124: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-11 09:22:42,124: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-03-11 09:22:42,125: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:22:42,125: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2024-03-11 09:22:42,128: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:22:42,128: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:22:42,129: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:22:42,129: INFO: common: created directory at: artifacts]
+[2024-03-11 09:22:42,130: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-11 09:22:42,134: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:22:42,134: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2024-03-11 09:22:42,136: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:22:42,136: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:22:42,138: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:22:42,138: INFO: common: created directory at: artifacts]
+[2024-03-11 09:22:42,138: INFO: common: created directory at: artifacts/data_transformation]
+[2024-03-11 09:22:42,156: INFO: data_transformation: Splitted data into training and testing sets]
+[2024-03-11 09:22:42,156: INFO: data_transformation: (1199, 12)]
+[2024-03-11 09:22:42,157: INFO: data_transformation: (400, 12)]
+[2024-03-11 09:22:42,157: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:22:42,157: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2024-03-11 09:22:42,159: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:22:42,159: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:22:42,160: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:22:42,160: INFO: common: created directory at: artifacts]
+[2024-03-11 09:22:42,160: INFO: common: created directory at: artifacts/model_trainer]
+[2024-03-11 09:22:42,168: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:22:42,168: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:22:42,170: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:22:42,170: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:22:42,172: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:22:42,172: INFO: common: created directory at: artifacts]
+[2024-03-11 09:22:42,172: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:22:42,557: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:22:44,651: INFO: main: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:25:19,015: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:25:19,982: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-03-11 09:25:19,984: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:25:19,986: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:25:19,987: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:25:19,988: INFO: common: created directory at: artifacts]
+[2024-03-11 09:25:19,988: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-11 09:25:21,185: INFO: data_ingestion: artifacts/data_ingestion/data.zip downnload! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1EFC:2E4BFD:239E0A:392014:65EE8E5B
+Accept-Ranges: bytes
+Date: Mon, 11 Mar 2024 06:25:21 GMT
+Via: 1.1 varnish
+X-Served-By: cache-jnb7020-JNB
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1710138321.002480,VS0,VE295
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 7429f067401f11dab9f9d47ba6b419a2f79e302c
+Expires: Mon, 11 Mar 2024 06:30:21 GMT
+Source-Age: 0
+
+]
+[2024-03-11 09:25:21,189: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:25:21,190: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2024-03-11 09:25:21,198: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:25:21,199: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:25:21,203: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:25:21,203: INFO: common: created directory at: artifacts]
+[2024-03-11 09:25:21,203: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-11 09:25:21,213: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:25:21,213: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2024-03-11 09:25:21,218: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:25:21,218: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:25:21,221: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:25:21,221: INFO: common: created directory at: artifacts]
+[2024-03-11 09:25:21,221: INFO: common: created directory at: artifacts/data_transformation]
+[2024-03-11 09:25:21,252: INFO: data_transformation: Splitted data into training and testing sets]
+[2024-03-11 09:25:21,252: INFO: data_transformation: (1199, 12)]
+[2024-03-11 09:25:21,252: INFO: data_transformation: (400, 12)]
+[2024-03-11 09:25:21,252: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:25:21,252: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2024-03-11 09:25:21,255: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:25:21,256: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:25:21,257: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:25:21,257: INFO: common: created directory at: artifacts]
+[2024-03-11 09:25:21,257: INFO: common: created directory at: artifacts/model_trainer]
+[2024-03-11 09:25:21,268: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:25:21,268: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:25:21,270: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:25:21,271: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:25:21,272: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:25:21,272: INFO: common: created directory at: artifacts]
+[2024-03-11 09:25:21,272: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:25:21,702: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:25:23,969: INFO: main: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:34:49,017: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:34:50,483: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:34:50,485: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:34:50,487: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:34:50,489: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:34:50,489: INFO: common: created directory at: artifacts]
+[2024-03-11 09:34:50,489: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:34:50,945: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:34:53,056: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:36:33,003: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:36:34,410: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:36:34,413: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:36:34,414: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:36:34,416: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:36:34,416: INFO: common: created directory at: artifacts]
+[2024-03-11 09:36:34,416: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:36:34,834: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:36:36,964: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:37:25,482: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:37:26,760: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:37:26,762: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:37:26,764: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:37:26,765: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:37:26,765: INFO: common: created directory at: artifacts]
+[2024-03-11 09:37:26,765: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:37:27,195: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:37:29,309: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:37:54,671: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:37:55,975: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:37:55,977: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:37:55,979: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:37:55,981: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:37:55,981: INFO: common: created directory at: artifacts]
+[2024-03-11 09:37:55,981: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:37:56,395: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:37:58,523: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:38:18,111: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:38:19,380: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:38:19,382: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:38:19,384: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:38:19,386: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:38:19,386: INFO: common: created directory at: artifacts]
+[2024-03-11 09:38:19,386: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:38:19,791: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:38:21,908: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:38:46,368: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:38:47,634: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:38:47,637: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:38:47,639: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:38:47,640: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:38:47,641: INFO: common: created directory at: artifacts]
+[2024-03-11 09:38:47,641: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:38:48,040: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:38:50,100: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:39:34,513: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:39:35,841: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:39:35,843: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:39:35,845: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:39:35,846: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:39:35,847: INFO: common: created directory at: artifacts]
+[2024-03-11 09:39:35,847: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:39:36,265: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:39:38,394: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:39:53,371: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:39:54,634: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:39:54,636: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:39:54,638: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:39:54,640: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:39:54,640: INFO: common: created directory at: artifacts]
+[2024-03-11 09:39:54,640: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:39:54,641: ERROR: stage_05_model_evaluation: [Errno 2] No such file or directory: 'artifacts/data_transformation/test.csv']
+Traceback (most recent call last):
+  File "/Users/jobdulo/Documents/awsEC2_mlflow_mlops/src/awsec2_mlflow/pipeline/stage_05_model_evaluation.py", line 24, in <module>
+    obj.main()
+  File "/Users/jobdulo/Documents/awsEC2_mlflow_mlops/src/awsec2_mlflow/pipeline/stage_05_model_evaluation.py", line 16, in main
+    model_evaluation_config.log_into_mlflow()
+  File "/Users/jobdulo/Documents/awsEC2_mlflow_mlops/src/awsec2_mlflow/components/model_evaluation.py", line 31, in log_into_mlflow
+    test_data = pd.read_csv(self.config.test_data_path)
+  File "/Users/jobdulo/opt/anaconda3/envs/mlops/lib/python3.8/site-packages/pandas/util/_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/jobdulo/opt/anaconda3/envs/mlops/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 680, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/Users/jobdulo/opt/anaconda3/envs/mlops/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 575, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/Users/jobdulo/opt/anaconda3/envs/mlops/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 933, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/Users/jobdulo/opt/anaconda3/envs/mlops/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 1217, in _make_engine
+    self.handles = get_handle(  # type: ignore[call-overload]
+  File "/Users/jobdulo/opt/anaconda3/envs/mlops/lib/python3.8/site-packages/pandas/io/common.py", line 789, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_transformation/test.csv'
+[2024-03-11 09:40:16,954: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:40:17,842: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-03-11 09:40:17,845: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:40:17,847: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:40:17,849: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:40:17,850: INFO: common: created directory at: artifacts]
+[2024-03-11 09:40:17,850: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-11 09:40:19,028: INFO: data_ingestion: artifacts/data_ingestion/data.zip downnload! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1EFC:2E4BFD:239E0A:392014:65EE8E5B
+Accept-Ranges: bytes
+Date: Mon, 11 Mar 2024 06:40:19 GMT
+Via: 1.1 varnish
+X-Served-By: cache-jnb7026-JNB
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1710139219.814024,VS0,VE285
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 47ab24653c10bd9a383e927d2a5a8b059947cb29
+Expires: Mon, 11 Mar 2024 06:45:19 GMT
+Source-Age: 0
+
+]
+[2024-03-11 09:40:19,035: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:40:19,035: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2024-03-11 09:40:19,041: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:40:19,042: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:40:19,045: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:40:19,045: INFO: common: created directory at: artifacts]
+[2024-03-11 09:40:19,045: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-11 09:40:19,055: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:40:19,055: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2024-03-11 09:40:19,059: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:40:19,060: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:40:19,062: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:40:19,063: INFO: common: created directory at: artifacts]
+[2024-03-11 09:40:19,063: INFO: common: created directory at: artifacts/data_transformation]
+[2024-03-11 09:40:19,094: INFO: data_transformation: Splitted data into training and testing sets]
+[2024-03-11 09:40:19,094: INFO: data_transformation: (1199, 12)]
+[2024-03-11 09:40:19,094: INFO: data_transformation: (400, 12)]
+[2024-03-11 09:40:19,094: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:40:19,094: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2024-03-11 09:40:19,097: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:40:19,098: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:40:19,099: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:40:19,099: INFO: common: created directory at: artifacts]
+[2024-03-11 09:40:19,099: INFO: common: created directory at: artifacts/model_trainer]
+[2024-03-11 09:40:19,110: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:40:19,110: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:40:19,113: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:40:19,114: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:40:19,115: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:40:19,115: INFO: common: created directory at: artifacts]
+[2024-03-11 09:40:19,115: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:40:19,505: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:40:21,798: INFO: main: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:41:36,385: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:41:37,737: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:41:37,740: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:41:37,742: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:41:37,744: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:41:37,744: INFO: common: created directory at: artifacts]
+[2024-03-11 09:41:37,744: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:41:38,165: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:41:40,308: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:42:21,034: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:42:22,255: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:42:22,258: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:42:22,259: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:42:22,260: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:42:22,261: INFO: common: created directory at: artifacts]
+[2024-03-11 09:42:22,261: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:42:22,671: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:42:24,825: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:43:20,743: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:43:21,782: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:43:21,785: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:43:21,788: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:43:21,789: INFO: common: created directory at: artifacts]
+[2024-03-11 09:43:21,790: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:43:22,603: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:43:46,652: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:43:47,898: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:43:47,901: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:43:47,902: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:43:47,903: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:43:47,903: INFO: common: created directory at: artifacts]
+[2024-03-11 09:43:47,903: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:43:48,329: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:43:50,424: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:44:25,941: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:44:27,279: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:44:27,282: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:44:27,283: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:44:27,284: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:44:27,284: INFO: common: created directory at: artifacts]
+[2024-03-11 09:44:27,284: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:44:27,722: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:44:29,852: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:45:17,624: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:45:18,519: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-03-11 09:45:18,522: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:45:18,523: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:45:18,524: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:45:18,524: INFO: common: created directory at: artifacts]
+[2024-03-11 09:45:18,524: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-11 09:45:19,608: INFO: data_ingestion: artifacts/data_ingestion/data.zip downnload! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1EFC:2E4BFD:239E0A:392014:65EE8E5B
+Accept-Ranges: bytes
+Date: Mon, 11 Mar 2024 06:45:19 GMT
+Via: 1.1 varnish
+X-Served-By: cache-jnb7026-JNB
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1710139519.378410,VS0,VE277
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: cebd87d3039dc9f6955cdec9634e2bdb44e924b3
+Expires: Mon, 11 Mar 2024 06:50:19 GMT
+Source-Age: 0
+
+]
+[2024-03-11 09:45:19,614: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:45:19,614: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2024-03-11 09:45:19,620: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:45:19,621: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:45:19,624: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:45:19,625: INFO: common: created directory at: artifacts]
+[2024-03-11 09:45:19,625: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-11 09:45:19,635: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:45:19,635: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2024-03-11 09:45:19,639: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:45:19,640: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:45:19,642: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:45:19,642: INFO: common: created directory at: artifacts]
+[2024-03-11 09:45:19,643: INFO: common: created directory at: artifacts/data_transformation]
+[2024-03-11 09:45:19,682: INFO: data_transformation: Splitted data into training and testing sets]
+[2024-03-11 09:45:19,682: INFO: data_transformation: (1199, 12)]
+[2024-03-11 09:45:19,682: INFO: data_transformation: (400, 12)]
+[2024-03-11 09:45:19,682: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:45:19,683: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2024-03-11 09:45:19,693: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:45:19,694: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:45:19,697: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:45:19,698: INFO: common: created directory at: artifacts]
+[2024-03-11 09:45:19,698: INFO: common: created directory at: artifacts/model_trainer]
+[2024-03-11 09:45:19,711: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:45:19,711: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:45:19,715: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:45:19,716: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:45:19,719: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:45:19,719: INFO: common: created directory at: artifacts]
+[2024-03-11 09:45:19,720: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:45:20,125: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:45:22,829: ERROR: main: API request to endpoint /api/2.0/mlflow/registered-models/create failed with error code 403 != 200. Response body: '']
+Traceback (most recent call last):
+  File "main.py", line 57, in <module>
+    obj.main()
+  File "/Users/jobdulo/Documents/awsEC2_mlflow_mlops/src/awsec2_mlflow/pipeline/stage_05_model_evaluation.py", line 16, in main
+    model_evaluation_config.log_into_mlflow()
+  File "/Users/jobdulo/Documents/awsEC2_mlflow_mlops/src/awsec2_mlflow/components/model_evaluation.py", line 70, in log_into_mlflow
+    mlflow.sklearn.log_model(model, "model", registered_model_name="ElasticnetModel")
+  File "/Users/jobdulo/opt/anaconda3/envs/mlops/lib/python3.8/site-packages/mlflow/sklearn/__init__.py", line 416, in log_model
+    return Model.log(
+  File "/Users/jobdulo/opt/anaconda3/envs/mlops/lib/python3.8/site-packages/mlflow/models/model.py", line 632, in log
+    mlflow.tracking._model_registry.fluent._register_model(
+  File "/Users/jobdulo/opt/anaconda3/envs/mlops/lib/python3.8/site-packages/mlflow/tracking/_model_registry/fluent.py", line 104, in _register_model
+    raise e
+  File "/Users/jobdulo/opt/anaconda3/envs/mlops/lib/python3.8/site-packages/mlflow/tracking/_model_registry/fluent.py", line 92, in _register_model
+    create_model_response = client.create_registered_model(name)
+  File "/Users/jobdulo/opt/anaconda3/envs/mlops/lib/python3.8/site-packages/mlflow/tracking/client.py", line 2192, in create_registered_model
+    return self._get_registry_client().create_registered_model(name, tags, description)
+  File "/Users/jobdulo/opt/anaconda3/envs/mlops/lib/python3.8/site-packages/mlflow/tracking/_model_registry/client.py", line 63, in create_registered_model
+    return self.store.create_registered_model(name, tags, description)
+  File "/Users/jobdulo/opt/anaconda3/envs/mlops/lib/python3.8/site-packages/mlflow/store/model_registry/rest_store.py", line 82, in create_registered_model
+    response_proto = self._call_endpoint(CreateRegisteredModel, req_body)
+  File "/Users/jobdulo/opt/anaconda3/envs/mlops/lib/python3.8/site-packages/mlflow/store/model_registry/base_rest_store.py", line 44, in _call_endpoint
+    return call_endpoint(
+  File "/Users/jobdulo/opt/anaconda3/envs/mlops/lib/python3.8/site-packages/mlflow/utils/rest_utils.py", line 220, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "/Users/jobdulo/opt/anaconda3/envs/mlops/lib/python3.8/site-packages/mlflow/utils/rest_utils.py", line 158, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/registered-models/create failed with error code 403 != 200. Response body: ''
+[2024-03-11 09:49:16,197: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:49:17,555: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-03-11 09:49:17,558: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:49:17,560: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:49:17,561: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:49:17,562: INFO: common: created directory at: artifacts]
+[2024-03-11 09:49:17,562: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-11 09:49:18,428: INFO: data_ingestion: artifacts/data_ingestion/data.zip downnload! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1EFC:2E4BFD:239E0A:392014:65EE8E5B
+Accept-Ranges: bytes
+Date: Mon, 11 Mar 2024 06:49:18 GMT
+Via: 1.1 varnish
+X-Served-By: cache-jnb7021-JNB
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1710139758.474764,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: f6d908feee5be0f8c9b8045725c59500c962b670
+Expires: Mon, 11 Mar 2024 06:54:18 GMT
+Source-Age: 239
+
+]
+[2024-03-11 09:49:18,435: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:49:18,435: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2024-03-11 09:49:18,441: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:49:18,442: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:49:18,445: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:49:18,445: INFO: common: created directory at: artifacts]
+[2024-03-11 09:49:18,446: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-11 09:49:18,461: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:49:18,461: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2024-03-11 09:49:18,465: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:49:18,466: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:49:18,468: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:49:18,468: INFO: common: created directory at: artifacts]
+[2024-03-11 09:49:18,468: INFO: common: created directory at: artifacts/data_transformation]
+[2024-03-11 09:49:18,498: INFO: data_transformation: Splitted data into training and testing sets]
+[2024-03-11 09:49:18,500: INFO: data_transformation: (1199, 12)]
+[2024-03-11 09:49:18,500: INFO: data_transformation: (400, 12)]
+[2024-03-11 09:49:18,500: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:49:18,500: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2024-03-11 09:49:18,503: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:49:18,503: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:49:18,504: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:49:18,505: INFO: common: created directory at: artifacts]
+[2024-03-11 09:49:18,505: INFO: common: created directory at: artifacts/model_trainer]
+[2024-03-11 09:49:18,517: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:49:18,517: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:49:18,519: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:49:18,520: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:49:18,521: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:49:18,521: INFO: common: created directory at: artifacts]
+[2024-03-11 09:49:18,521: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:49:18,937: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:49:21,202: INFO: main: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:52:41,079: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:52:42,486: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:52:42,490: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:52:42,491: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:52:42,493: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:52:42,493: INFO: common: created directory at: artifacts]
+[2024-03-11 09:52:42,493: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:52:43,295: ERROR: stage_05_model_evaluation: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: '']
+Traceback (most recent call last):
+  File "/Users/jobdulo/Documents/awsEC2_mlflow_mlops/src/awsec2_mlflow/pipeline/stage_05_model_evaluation.py", line 24, in <module>
+    obj.main()
+  File "/Users/jobdulo/Documents/awsEC2_mlflow_mlops/src/awsec2_mlflow/pipeline/stage_05_model_evaluation.py", line 16, in main
+    model_evaluation_config.log_into_mlflow()
+  File "/Users/jobdulo/Documents/awsEC2_mlflow_mlops/src/awsec2_mlflow/components/model_evaluation.py", line 46, in log_into_mlflow
+    with mlflow.start_run():
+  File "/Users/jobdulo/opt/anaconda3/envs/mlops/lib/python3.8/site-packages/mlflow/tracking/fluent.py", line 381, in start_run
+    active_run_obj = client.create_run(
+  File "/Users/jobdulo/opt/anaconda3/envs/mlops/lib/python3.8/site-packages/mlflow/tracking/client.py", line 353, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "/Users/jobdulo/opt/anaconda3/envs/mlops/lib/python3.8/site-packages/mlflow/tracking/_tracking_service/client.py", line 139, in create_run
+    return self.store.create_run(
+  File "/Users/jobdulo/opt/anaconda3/envs/mlops/lib/python3.8/site-packages/mlflow/store/tracking/rest_store.py", line 187, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "/Users/jobdulo/opt/anaconda3/envs/mlops/lib/python3.8/site-packages/mlflow/store/tracking/rest_store.py", line 60, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+  File "/Users/jobdulo/opt/anaconda3/envs/mlops/lib/python3.8/site-packages/mlflow/utils/rest_utils.py", line 220, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "/Users/jobdulo/opt/anaconda3/envs/mlops/lib/python3.8/site-packages/mlflow/utils/rest_utils.py", line 158, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: ''
+[2024-03-11 09:55:41,199: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:55:42,600: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:55:42,603: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:55:42,604: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:55:42,606: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:55:42,606: INFO: common: created directory at: artifacts]
+[2024-03-11 09:55:42,606: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:55:43,742: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:55:54,068: INFO: stage_05_model_evaluation: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:56:13,844: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-03-11 09:56:14,746: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-03-11 09:56:14,749: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:56:14,749: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:56:14,751: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:56:14,751: INFO: common: created directory at: artifacts]
+[2024-03-11 09:56:14,751: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-11 09:56:15,817: INFO: data_ingestion: artifacts/data_ingestion/data.zip downnload! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1EFC:2E4BFD:239E0A:392014:65EE8E5B
+Accept-Ranges: bytes
+Date: Mon, 11 Mar 2024 06:56:15 GMT
+Via: 1.1 varnish
+X-Served-By: cache-jnb7026-JNB
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1710140176.580653,VS0,VE278
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: e132c4107b65530650ccbe854bd1361ec901a788
+Expires: Mon, 11 Mar 2024 07:01:15 GMT
+Source-Age: 0
+
+]
+[2024-03-11 09:56:15,823: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:56:15,823: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2024-03-11 09:56:15,829: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:56:15,830: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:56:15,833: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:56:15,834: INFO: common: created directory at: artifacts]
+[2024-03-11 09:56:15,834: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-11 09:56:15,844: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:56:15,844: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2024-03-11 09:56:15,848: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:56:15,849: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:56:15,852: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:56:15,852: INFO: common: created directory at: artifacts]
+[2024-03-11 09:56:15,852: INFO: common: created directory at: artifacts/data_transformation]
+[2024-03-11 09:56:15,882: INFO: data_transformation: Splitted data into training and testing sets]
+[2024-03-11 09:56:15,882: INFO: data_transformation: (1199, 12)]
+[2024-03-11 09:56:15,882: INFO: data_transformation: (400, 12)]
+[2024-03-11 09:56:15,882: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:56:15,882: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2024-03-11 09:56:15,885: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:56:15,885: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:56:15,887: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:56:15,887: INFO: common: created directory at: artifacts]
+[2024-03-11 09:56:15,887: INFO: common: created directory at: artifacts/model_trainer]
+[2024-03-11 09:56:15,897: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x==========x]
+[2024-03-11 09:56:15,898: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2024-03-11 09:56:15,900: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-11 09:56:15,900: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-11 09:56:15,902: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-11 09:56:15,902: INFO: common: created directory at: artifacts]
+[2024-03-11 09:56:15,902: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-11 09:56:16,840: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-11 09:56:26,527: INFO: main: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]

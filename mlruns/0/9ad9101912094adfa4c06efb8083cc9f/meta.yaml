@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobdulo/Documents/awsEC2_mlflow_mlops/mlruns/0/9ad9101912094adfa4c06efb8083cc9f/artifacts
+end_time: 1710133777519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 9ad9101912094adfa4c06efb8083cc9f
+run_uuid: 9ad9101912094adfa4c06efb8083cc9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710133775065
+status: 3
+tags: []
+user_id: jobdulo

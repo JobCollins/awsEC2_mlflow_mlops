@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobdulo/Documents/awsEC2_mlflow_mlops/mlruns/0/5852cdde88704433b7e9300fcb0b08ad/artifacts
+end_time: 1710138111277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5852cdde88704433b7e9300fcb0b08ad
+run_name: redolent-shrike-591
+run_uuid: 5852cdde88704433b7e9300fcb0b08ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710138109089
+status: 3
+tags: []
+user_id: jobdulo

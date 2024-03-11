@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobdulo/Documents/awsEC2_mlflow_mlops/mlruns/0/a5a43fe1559d45b9b85ead7ad4f9ee87/artifacts
+end_time: 1710137558229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5a43fe1559d45b9b85ead7ad4f9ee87
+run_name: magnificent-auk-284
+run_uuid: a5a43fe1559d45b9b85ead7ad4f9ee87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710137556149
+status: 3
+tags: []
+user_id: jobdulo
